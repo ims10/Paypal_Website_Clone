@@ -18,7 +18,7 @@ To get started with this project on your local machine, follow these steps:
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/paypal-clone.git
+   https://github.com/ims10/Paypal_Website_Clone.git
    
 ## 🕹 Usage
 
